@@ -1,12 +1,23 @@
-# DB
-agregar editar eliminar actualizar // add edit delete update
+# base de datos 
+agregar editar eliminar actualizar
 
-add: new client name, email, phone, company,
+agregar: nuevo nombre de cliente, correo electrónico, teléfono, empresa,
+
+editar: editar nombre, teléfono, empresa,
+
+eliminar: eliminar cliente
+
+actualización: actualización automática
+
+link : https://guidolzc.github.io/DB/
+
+# database
+add edit delete update
+
+add: new customer name, email, phone, company,
 
 edit: edit name, phone, company,
 
 delete: delete customer
 
 update: automatic update
-
-link : https://guidolzc.github.io/DB/
