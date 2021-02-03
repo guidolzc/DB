@@ -8,3 +8,5 @@ edit: edit name, phone, company,
 delete: delete customer
 
 update: automatic update
+
+link : https://guidolzc.github.io/DB/
