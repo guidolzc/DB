@@ -12,6 +12,7 @@ actualización: actualización automática
 link : https://guidolzc.github.io/DB/
 
 # database
+
 add edit delete update
 
 add: new customer name, email, phone, company,
